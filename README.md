@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 130.193.42.13
+IP 130.193.42.13
 
 Frontend https://feduk11.nomoredomainsrocks.ru
 
